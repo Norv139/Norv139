@@ -2,6 +2,8 @@
 - I'am backend developer
 - love beer and mom
 
+PS there won't be anything interesting here, since I'm working either on local GitLab repositories or also deployed at work (sorry)
+
 ### my stack:
 
 <p>
